@@ -35,7 +35,8 @@ PRODUCT_PACKAGES += \
     FrameworkResOverlayNuwa \
     SettingsOverlayNuwa \
     SettingsProviderResNuwa \
-    SystemUIOverlayNuwa
+    SystemUIOverlayNuwa \
+    WifiResNuwa
     
 # PowerShare
 $(call soong_config_set,lineage_powershare,powershare_path,/sys/class/qcom-battery/reverse_chg_mode)
