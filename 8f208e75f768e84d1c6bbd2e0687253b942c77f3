@@ -22,6 +22,30 @@
       },
       "revId": "8f208e75f768e84d1c6bbd2e0687253b942c77f3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "53e188ab_7464ec0e",
+        "filename": "init/init.nuwa.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 34560
+      },
+      "writtenOn": "2025-11-29T06:21:29Z",
+      "side": 1,
+      "message": "Ie0bccbaedfb0dec415ad996c058beb2cc647a56c",
+      "parentUuid": "46365cd6_d8c827e4",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 3,
+        "endChar": 55
+      },
+      "revId": "8f208e75f768e84d1c6bbd2e0687253b942c77f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
