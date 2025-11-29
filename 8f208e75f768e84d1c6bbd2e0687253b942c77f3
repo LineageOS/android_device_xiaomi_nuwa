@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "46365cd6_d8c827e4",
+        "filename": "init/init.nuwa.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 35315
+      },
+      "writtenOn": "2025-11-29T06:19:17Z",
+      "side": 1,
+      "message": "I3c716fba06d1040e6108373e41f532bae60e7f2b",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 3,
+        "endChar": 55
+      },
+      "revId": "8f208e75f768e84d1c6bbd2e0687253b942c77f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
