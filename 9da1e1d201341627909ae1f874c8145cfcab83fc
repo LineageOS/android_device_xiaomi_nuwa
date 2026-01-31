@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "faaf6d98_e422efd0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-01-31T11:15:55Z",
+      "side": 1,
+      "message": "Commit message is wrong, you\u0027re not decomminizing it here. Something like \"Import device-specific usecaseKvManager\". Also, does it really make sense to import it to the tree? See: https://github.com/LineageOS/android_device_oneplus_salami/commit/5ac1d4fa698c29dce0ebea99124bb9dda2bf0828",
+      "revId": "9da1e1d201341627909ae1f874c8145cfcab83fc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
