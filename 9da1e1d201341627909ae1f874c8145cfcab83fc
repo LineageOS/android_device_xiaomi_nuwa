@@ -34,6 +34,24 @@
       "parentUuid": "faaf6d98_e422efd0",
       "revId": "9da1e1d201341627909ae1f874c8145cfcab83fc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "02887c13_ab98c57d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-01-31T12:03:01Z",
+      "side": 1,
+      "message": "Fine, then import stock config with a proper commit message and then apply the dual-mic changes on top.",
+      "parentUuid": "cef4ca96_7d46c129",
+      "revId": "9da1e1d201341627909ae1f874c8145cfcab83fc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
