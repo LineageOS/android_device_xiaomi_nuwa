@@ -464,11 +464,4 @@
         config_mainBuiltInDisplayCutout
         -->
     <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,0 H -42 V 122 H 42 V 0 H 0 Z</string>
-
-    <!-- Whether to enable fp unlock when screen turns off on udfps devices -->
-    <bool name="config_screen_off_udfps_enabled">true</bool>
-
-    <!-- Default value for fp screen off unlock toggle, it only works for the devices that support
-         fp screen off unlock-->
-    <bool name="config_screen_off_udfps_default_on">true</bool>
 </resources>
