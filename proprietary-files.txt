@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are taken from Xiaomi 13 Pro BP2A.250605.031.A3 OS3.0.309.0.WMBCNXM
+## are taken from Xiaomi 13 Pro BP2A.250605.031.A3 OS3.0.311.0.WMBCNXM
 
 # ACDBs
 odm/etc/acdbdata/Forte/Forte_acdb_cal.acdb:vendor/etc/acdbdata/kalama_mtp/Forte_acdb_cal.acdb
